@@ -5,3 +5,6 @@ let newObj = {
 }
 
 Object.keys(newObj).forEach(key => console.log(`${key} and ${newObj[key]}`));
+
+let output = (newObj.eyes);
+console.log(output);
